@@ -3,6 +3,10 @@ I’m Joe, a computer science student with a strong background in Math and rever
 
 Documenting my journy on [X account](https://x.com/Joe23Joee)
 
+## Elliptic Curves paper work
+
+[This repository contain solutions for CryptoHack elliptic curve challenges](https://github.com/joe23joe/Elliptic-Curves)
+
 ## CTFs
 [Ethernaut CTF](https://github.com/joe23joe/ethernaut-CTF)
 
