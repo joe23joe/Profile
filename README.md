@@ -5,11 +5,15 @@ Documenting my journy on [X account](https://x.com/Joe23Joee)
 
 ## Circom paper work
 
-[This repository contain full independent implementation for MD5 hash function](https://github.com/joe23joe/MD5-hash-implementation)
+[Full independent implementation for MD5 hash function](https://github.com/joe23joe/MD5-hash-implementation)
+
+[Solutions for all RareSkills circom puzzles](https://github.com/joe23joe/Circom-Puzzles-RareSkills)
+
+[Implementation for Sudoku in Circom](https://github.com/joe23joe/Circom-Puzzles-RareSkills/blob/main/Sudoku/Sudoku.circom)
 
 ## Elliptic Curves paper work
 
-[This repository contain solutions for CryptoHack elliptic curve challenges](https://github.com/joe23joe/Elliptic-Curves)
+[Solutions for CryptoHack elliptic curve challenges](https://github.com/joe23joe/Elliptic-Curves)
 
 ## CTFs
 [Ethernaut CTF](https://github.com/joe23joe/ethernaut-CTF)
