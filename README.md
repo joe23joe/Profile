@@ -11,9 +11,12 @@ Documenting my journy on [X account](https://x.com/Joe23Joee)
 
 [Implementation for Sudoku in Circom](https://github.com/joe23joe/Circom-Puzzles-RareSkills/blob/main/Sudoku/Sudoku.circom)
 
-## Elliptic Curves paper work
+
+## Cryptography paper work
 
 [Solutions for CryptoHack elliptic curve challenges](https://github.com/joe23joe/Elliptic-Curves)
+
+[Solutions for CryptoHack Diffie-Hellman challenges](https://github.com/joe23joe/Diffie-Hellman)
 
 ## CTFs
 [Ethernaut CTF](https://github.com/joe23joe/ethernaut-CTF)
