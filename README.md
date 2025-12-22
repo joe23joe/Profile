@@ -11,6 +11,8 @@ Documenting my journy on [X account](https://x.com/Joe23Joee)
 
 [Implementation for Sudoku in Circom](https://github.com/joe23joe/Circom-Puzzles-RareSkills/blob/main/Sudoku/Sudoku.circom)
 
+[Rate-Limiting-Nullifier shadow audit](https://github.com/joe23joe/Shadow-audits/blob/main/Rate-Limiting-Nullifier-Circuits/Report.pdf)
+
 
 ## Cryptography paper work
 
